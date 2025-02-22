@@ -10,3 +10,6 @@
 4) it gets a secret message and hides within a cover image and creates one similar encrypted image with a key password.
 5) after encryption we need to give a key or password which is set while encrypting
 6) using this passcode we decrypt a image and then we can read secret message.
+7) stego py need cv2 lib
+  solution
+  pip install cv2
